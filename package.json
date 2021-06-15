@@ -1,0 +1,19 @@
+{
+  "name": "libresign-theme",
+  "version": "0.0.1",
+  "description": "vuepress theme used for the libresign website",
+  "main": "index.js",
+  "authors": {
+    "name": "Vinicios Gomes",
+    "email": "contato@librecode.coop"
+  },
+  "repository": "https://github.com/LibreSign/libresign-theme-vuepress.git/libresign-theme",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}

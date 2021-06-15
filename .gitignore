@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Logs debug
+npm-debug.log
+
+# gitignore vuepress 
+run
+dist
+.DS_Store
+.nyc_output
+.basement
+config.local.js
+basement_dist
